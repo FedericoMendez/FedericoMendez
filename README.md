@@ -1,5 +1,5 @@
 ### Hi there 👋
-Quiero el pack de estudiantes :)
+Quiero el GitHub pack de estudiantes :)
 
 <!--
 **FedericoMendez/FedericoMendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
